@@ -4,7 +4,7 @@
 - 🌱 I'm looking for expanding my experience in microservices, cyber-security and machine learning.
 
 - 📫 You can check my CV and reach my contact details at
-https://rxresu.me/starostin.alexander/stal-102022/build
+https://rxresu.me/starostin.alexander/stal-102022
 
 <!---
 StalWork/StalWork is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
